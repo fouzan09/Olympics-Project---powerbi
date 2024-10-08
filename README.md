@@ -1,4 +1,4 @@
-![Screenshot 2024-10-08 165100](https://github.com/user-attachments/assets/55c47aad-39ba-497b-98ec-60c7b7f46871)Paris Olympic 2024 Analytic Dashboard
+Paris Olympic 2024 Analytic Dashboard
 
 
 Data Sources
