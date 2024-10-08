@@ -2,8 +2,8 @@ Paris Olympic 2024 Analytic Dashboard
 
 
 Data Sources
-This project leverages two datasets sourced from Kaggle:
 
+This project leverages two datasets sourced from Kaggle:
 Paris 2024 Olympic Summer Games Dataset by piterfm
 Olympic Historical Dataset (1896-2020) by muhammadehsan000
 
@@ -14,6 +14,9 @@ Power BI: Data visualization, DAX calculations, and dashboard creation
 
 Project preview
 Here’s a preview of the analytic dashboard created for this project:
+
+
+
 
 ![Screenshot 2024-10-08 164952](https://github.com/user-attachments/assets/c9ab9d97-d97b-44c6-b0cc-8bd3a4470ee4)
 
